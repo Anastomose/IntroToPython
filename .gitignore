@@ -1,0 +1,22 @@
+slides_sources/build
+
+<<<<<<< HEAD
+
+#ignore python compile files
+=======
+=======
+>>>>>>> cd68b7f26b88a846806cf7b21e896c52ef47334e
+.DS_Store
+
+#ignore compiled files, sublime workspace and project files
+*.pyc
+*junk*
+
+#ignore sublime workspace files
+*.sublime*
+
+# ignore .gitignore, so we can each have our own.
+.gitignore
+
+# editor back-up files
+*.*~
